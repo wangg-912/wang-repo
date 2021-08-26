@@ -1,0 +1,22 @@
+.DS_Store
+node_modules
+/lib
+.npmrc
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-debug.log*
+yarn.lock
+!/yarn.lock
+
+# Editor directories and files
+.idea
+.vscode
+coverage
+*.config.js
+package-lock.json
+src/index.js
+dist
+.history
