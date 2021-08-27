@@ -1,6 +1,6 @@
 {
   "name": "wang",
-  "version": "0.0.1-apache.1",
+  "version": "0.0.1",
   "description": "components for wang",
   "main": "dist/wang-ui.cjs.js",
   "module": "dist/wang-ui.esm-bundler.js",
@@ -36,8 +36,8 @@
     "registry": "https://registry.npm.taobao.org"
   },
   "dependencies": {
-    "chalk": "^4.1.2",
     "async-validator": "^3.5.1",
+    "chalk": "^4.1.2",
     "lodash-es": "^4.17.20",
     "mitt": "^2.1.0",
     "normalize-wheel": "^1.0.1",

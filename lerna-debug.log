@@ -1,0 +1,8 @@
+30 error Error: Command failed with exit code 1: git add -- packages/examples/package.json packages/wang/package.json packages/wang/package-lock.json
+30 error The following paths are ignored by one of your .gitignore files:
+30 error packages/wang/package-lock.json
+30 error Use -f if you really want to add them.
+30 error     at makeError (E:\wp-evolution\Mr.Wang@repo\node_modules\execa\lib\error.js:60:11)
+30 error     at handlePromise (E:\wp-evolution\Mr.Wang@repo\node_modules\execa\index.js:118:26)
+30 error     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+30 error     at async Promise.all (index 0)
