@@ -1,6 +1,6 @@
 {
   "name": "wang",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "description": "components for wang",
   "main": "dist/wang-ui.cjs.js",
   "module": "dist/wang-ui.esm-bundler.js",
