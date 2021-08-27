@@ -20,3 +20,5 @@ package-lock.json
 src/index.js
 dist
 .history
+wg
+wg.pub
