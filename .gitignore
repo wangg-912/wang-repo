@@ -14,9 +14,6 @@ yarn.lock
 .idea
 .vscode
 coverage
-package-lock.json
-packages/**/package-lock.json
-packages/**/packages/**/package-lock.json
 src/index.js
 dist
 .history
