@@ -1,5 +1,5 @@
 {
-  "name": "wang",
+  "name": "wangui",
   "version": "0.0.1-beta.1",
   "description": "components for wang",
   "main": "dist/wang-ui.cjs.js",
@@ -9,7 +9,7 @@
   "keywords": [
     "components"
   ],
-  "author": "王刚 <wanggang@tellyes.com>",
+  "author": "王刚 <642008633@qq.com>",
   "homepage": "",
   "license": "MIT",
   "directories": {
@@ -87,5 +87,5 @@
     "vue": "^3.0.7",
     "vue-jest": "^5.0.0-alpha.10"
   },
-  "gitHead": "bc50ee9be7d95d4f65dfb570ca1061b6a6893ce5"
+  "gitHead": "9c9476a3ab9fa115ac372e809df1d65c74b2a765"
 }

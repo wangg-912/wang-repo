@@ -16,7 +16,7 @@ function applyOptions(app) {
     /* app.config.globalProperties.$loading = ElLoading.service */
 }
 
-const wang = {
+const wangui = {
     version,
     install
 }
@@ -25,4 +25,4 @@ export {
     WIcon
 }
 
-export default wang
+export default wangui

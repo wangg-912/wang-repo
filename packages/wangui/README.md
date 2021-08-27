@@ -5,7 +5,7 @@
 ## Usage
 
 ```
-const components = require('@wang/components');
+const components = require('@wangui/components');
 
 // TODO: DEMONSTRATE API
 ```
