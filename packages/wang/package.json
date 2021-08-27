@@ -86,5 +86,6 @@
     "vite": "^2.2.3",
     "vue": "^3.0.7",
     "vue-jest": "^5.0.0-alpha.10"
-  }
+  },
+  "gitHead": "bc50ee9be7d95d4f65dfb570ca1061b6a6893ce5"
 }
