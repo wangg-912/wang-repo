@@ -1,7 +1,7 @@
 {
-  "name": "wang-ui",
-  "private": false,
-  "version": "0.0.1",
+  "name": "wang-v4",
+  "private": true,
+  "version": "0.0.1-beta.2",
   "workspaces": [
     "packages/*"
   ],
@@ -16,7 +16,9 @@
     "clean": "rm -rf node_modules && rm -rf packages/*/node_modules && yarn cache clean",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
     "dev#wangui": "yarn workspace wangui dev",
-    "dev": "node scripts/runCmd.js \"yarn dev#wangui\""
+    "dev#examples": "yarn workspace examples dev",
+    "dev:play#examples": "yarn workspace examples dev:play",
+    "dev": "node scripts/runCmd.js \"yarn dev#wangui\" \"yarn dev#examples\""
   },
   "lint-staged": {
     "*.{js,vue}": [
@@ -67,6 +69,14 @@
   },
   "dependencies": {
     "vue": "^3.2.6"
+  },
+  "homepage": "https://github.com/wangg-912/wang-repo#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangg-912/wang-repo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wangg-912/wang-repo/issues"
   },
   "license": "MIT"
 }
