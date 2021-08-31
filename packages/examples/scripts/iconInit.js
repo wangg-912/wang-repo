@@ -4,7 +4,7 @@ var postcss = require('postcss')
 var fs = require('fs')
 var path = require('path')
 var fontFile = fs.readFileSync(
-    require.resolve('wangui/lib/theme-chalk/icon.css'),
+    require.resolve('wangv4/lib/theme-chalk/icon.css'),
     'utf8'
 )
 

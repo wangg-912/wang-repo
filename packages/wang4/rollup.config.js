@@ -67,7 +67,7 @@ function mergeConfig(baseConfig, configB) {
 }
 
 function createFileName(formatName) {
-    return `dist/wangui.${formatName}.js`
+    return `dist/wangv4.${formatName}.js`
 }
 
 // es-bundle

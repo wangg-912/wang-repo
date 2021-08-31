@@ -1,8 +1,5 @@
 <template>
-  <div>
-    <i class="wang-icon-share"></i>
-    <WIcon name="edit" />
-  </div>
+  <div>123</div>
 </template>
 <script>
 import { defineComponent } from 'vue'

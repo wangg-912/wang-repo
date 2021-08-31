@@ -1,15 +1,12 @@
 {
-  "name": "wangui",
-  "version": "0.0.3-beta.3",
-  "description": "components for wang",
-  "main": "dist/wang-ui.cjs.js",
-  "module": "dist/wang-ui.esm-bundler.js",
-  "unpkg": "dist/wang-ui.global.js",
-  "jsdelivr": "dist/wang-ui.global.js",
+  "name": "wang4",
+  "version": "0.0.1-beta.3",
+  "description": "platform for wangv4",
   "keywords": [
-    "components"
+    "platform"
   ],
-  "author": "王刚 <642008633@qq.com>",
+  "author": "王刚 <642008633@email.com>",
+  "homepage": "https://github.com/wangg-912/wang-repo/tree/main/packages/wang4#readme",
   "license": "MIT",
   "directories": {
     "test": "__tests__"
@@ -22,6 +19,10 @@
     "types"
   ],
   "typings": "types/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangg-912/wang-repo.git"
+  },
   "scripts": {
     "build": "yarn build:theme && yarn build:lib",
     "build:lib": "rollup -c",

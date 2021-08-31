@@ -31,8 +31,7 @@
   },
   "dependencies": {
     "chalk": "^4.1.2",
-    "mitt": "^2.1.0",
-    "wangui": "^0.0.3-beta.3"
+    "mitt": "^2.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",
@@ -93,5 +92,6 @@
       "^.+\\.vue$": "vue-jest"
     }
   },
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "4af95989452b38f6d1a159ef684a64d7ef9afa90"
 }
