@@ -4,13 +4,13 @@ node_js:
 
 cache:
   yarn: true
-
+  
 install:
-  - yarn bootstrap
-
+  - yarn install
 
 script:
-  - yarn build
+  - npm run build
+
 
 deploy:
   provider: pages
