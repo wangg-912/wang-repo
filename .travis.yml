@@ -6,10 +6,11 @@ cache:
   yarn: true
 
 install:
-  - yarn install
+  - yarn bootstrap
+
 
 script:
-  - npm run build
+  - yarn build
 
 deploy:
   provider: pages
