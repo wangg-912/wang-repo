@@ -1,7 +1,7 @@
 # 概述
 
 ## 安装
-
+npm install wang-v4 --save-dev
 ## 使用
 
 ## Git 规范
