@@ -1,6 +1,6 @@
 {
   "name": "examples",
-  "version": "0.0.1-beta.2",
+  "version": "0.0.1-beta.3",
   "description": "examples",
   "keywords": [
     "examples"
@@ -32,7 +32,7 @@
   "dependencies": {
     "chalk": "^4.1.2",
     "mitt": "^2.1.0",
-    "wangui": "^0.0.1-beta.2"
+    "wangui": "^0.0.3-beta.3"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",
